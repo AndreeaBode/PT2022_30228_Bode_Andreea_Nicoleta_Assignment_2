@@ -1,0 +1,660 @@
+Q1 is closed
+Q5 is closed
+Q3 is closed
+Q2 is closed
+Q4 is closed
+Clienti care asteapta sa intre: [Task{ID=11, arrivalTime=4, serviceTime=1}, Task{ID=18, arrivalTime=5, serviceTime=6}, Task{ID=44, arrivalTime=5, serviceTime=5}, Task{ID=21, arrivalTime=6, serviceTime=6}, Task{ID=37, arrivalTime=6, serviceTime=5}, Task{ID=10, arrivalTime=8, serviceTime=1}, Task{ID=34, arrivalTime=8, serviceTime=5}, Task{ID=12, arrivalTime=9, serviceTime=1}, Task{ID=20, arrivalTime=9, serviceTime=4}, Task{ID=0, arrivalTime=11, serviceTime=1}, Task{ID=39, arrivalTime=11, serviceTime=5}, Task{ID=2, arrivalTime=12, serviceTime=4}, Task{ID=27, arrivalTime=12, serviceTime=5}, Task{ID=32, arrivalTime=12, serviceTime=5}, Task{ID=13, arrivalTime=14, serviceTime=6}, Task{ID=9, arrivalTime=15, serviceTime=3}, Task{ID=23, arrivalTime=15, serviceTime=3}, Task{ID=35, arrivalTime=15, serviceTime=3}, Task{ID=42, arrivalTime=16, serviceTime=5}, Task{ID=46, arrivalTime=16, serviceTime=2}, Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 3.5
+
+Q1 is closed
+Q4 is closed
+Q2 is closed
+Q5 is closed
+Q3 is closed
+Clienti care asteapta sa intre: [Task{ID=11, arrivalTime=4, serviceTime=1}, Task{ID=18, arrivalTime=5, serviceTime=6}, Task{ID=44, arrivalTime=5, serviceTime=5}, Task{ID=21, arrivalTime=6, serviceTime=6}, Task{ID=37, arrivalTime=6, serviceTime=5}, Task{ID=10, arrivalTime=8, serviceTime=1}, Task{ID=34, arrivalTime=8, serviceTime=5}, Task{ID=12, arrivalTime=9, serviceTime=1}, Task{ID=20, arrivalTime=9, serviceTime=4}, Task{ID=0, arrivalTime=11, serviceTime=1}, Task{ID=39, arrivalTime=11, serviceTime=5}, Task{ID=2, arrivalTime=12, serviceTime=4}, Task{ID=27, arrivalTime=12, serviceTime=5}, Task{ID=32, arrivalTime=12, serviceTime=5}, Task{ID=13, arrivalTime=14, serviceTime=6}, Task{ID=9, arrivalTime=15, serviceTime=3}, Task{ID=23, arrivalTime=15, serviceTime=3}, Task{ID=35, arrivalTime=15, serviceTime=3}, Task{ID=42, arrivalTime=16, serviceTime=5}, Task{ID=46, arrivalTime=16, serviceTime=2}, Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 7.0
+
+Q3 is closed
+Q4 is closed
+Q5 is closed
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=11, arrivalTime=4, serviceTime=1}, Task{ID=18, arrivalTime=5, serviceTime=6}, Task{ID=44, arrivalTime=5, serviceTime=5}, Task{ID=21, arrivalTime=6, serviceTime=6}, Task{ID=37, arrivalTime=6, serviceTime=5}, Task{ID=10, arrivalTime=8, serviceTime=1}, Task{ID=34, arrivalTime=8, serviceTime=5}, Task{ID=12, arrivalTime=9, serviceTime=1}, Task{ID=20, arrivalTime=9, serviceTime=4}, Task{ID=0, arrivalTime=11, serviceTime=1}, Task{ID=39, arrivalTime=11, serviceTime=5}, Task{ID=2, arrivalTime=12, serviceTime=4}, Task{ID=27, arrivalTime=12, serviceTime=5}, Task{ID=32, arrivalTime=12, serviceTime=5}, Task{ID=13, arrivalTime=14, serviceTime=6}, Task{ID=9, arrivalTime=15, serviceTime=3}, Task{ID=23, arrivalTime=15, serviceTime=3}, Task{ID=35, arrivalTime=15, serviceTime=3}, Task{ID=42, arrivalTime=16, serviceTime=5}, Task{ID=46, arrivalTime=16, serviceTime=2}, Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 10.5
+
+Q1 is closed
+Q4 is closed
+Q2 is closed
+Q5 is closed
+Q3 is closed
+Clienti care asteapta sa intre: [Task{ID=11, arrivalTime=4, serviceTime=1}, Task{ID=18, arrivalTime=5, serviceTime=6}, Task{ID=44, arrivalTime=5, serviceTime=5}, Task{ID=21, arrivalTime=6, serviceTime=6}, Task{ID=37, arrivalTime=6, serviceTime=5}, Task{ID=10, arrivalTime=8, serviceTime=1}, Task{ID=34, arrivalTime=8, serviceTime=5}, Task{ID=12, arrivalTime=9, serviceTime=1}, Task{ID=20, arrivalTime=9, serviceTime=4}, Task{ID=0, arrivalTime=11, serviceTime=1}, Task{ID=39, arrivalTime=11, serviceTime=5}, Task{ID=2, arrivalTime=12, serviceTime=4}, Task{ID=27, arrivalTime=12, serviceTime=5}, Task{ID=32, arrivalTime=12, serviceTime=5}, Task{ID=13, arrivalTime=14, serviceTime=6}, Task{ID=9, arrivalTime=15, serviceTime=3}, Task{ID=23, arrivalTime=15, serviceTime=3}, Task{ID=35, arrivalTime=15, serviceTime=3}, Task{ID=42, arrivalTime=16, serviceTime=5}, Task{ID=46, arrivalTime=16, serviceTime=2}, Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 14.0
+
+Q5 is closed
+Q3 is closed
+Q1 is closed
+Q2 is closed
+Q4 is closed
+Clienti care asteapta sa intre: [Task{ID=18, arrivalTime=5, serviceTime=6}, Task{ID=44, arrivalTime=5, serviceTime=5}, Task{ID=21, arrivalTime=6, serviceTime=6}, Task{ID=37, arrivalTime=6, serviceTime=5}, Task{ID=10, arrivalTime=8, serviceTime=1}, Task{ID=34, arrivalTime=8, serviceTime=5}, Task{ID=12, arrivalTime=9, serviceTime=1}, Task{ID=20, arrivalTime=9, serviceTime=4}, Task{ID=0, arrivalTime=11, serviceTime=1}, Task{ID=39, arrivalTime=11, serviceTime=5}, Task{ID=2, arrivalTime=12, serviceTime=4}, Task{ID=27, arrivalTime=12, serviceTime=5}, Task{ID=32, arrivalTime=12, serviceTime=5}, Task{ID=13, arrivalTime=14, serviceTime=6}, Task{ID=9, arrivalTime=15, serviceTime=3}, Task{ID=23, arrivalTime=15, serviceTime=3}, Task{ID=35, arrivalTime=15, serviceTime=3}, Task{ID=42, arrivalTime=16, serviceTime=5}, Task{ID=46, arrivalTime=16, serviceTime=2}, Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 17.48
+
+Q5 is closed
+Q2 is closed
+Q4 is closed
+Q3 is closed
+Q1: [Task{ID=11, arrivalTime=4, serviceTime=1}]
+
+Clienti care asteapta sa intre: [Task{ID=21, arrivalTime=6, serviceTime=6}, Task{ID=37, arrivalTime=6, serviceTime=5}, Task{ID=10, arrivalTime=8, serviceTime=1}, Task{ID=34, arrivalTime=8, serviceTime=5}, Task{ID=12, arrivalTime=9, serviceTime=1}, Task{ID=20, arrivalTime=9, serviceTime=4}, Task{ID=0, arrivalTime=11, serviceTime=1}, Task{ID=39, arrivalTime=11, serviceTime=5}, Task{ID=2, arrivalTime=12, serviceTime=4}, Task{ID=27, arrivalTime=12, serviceTime=5}, Task{ID=32, arrivalTime=12, serviceTime=5}, Task{ID=13, arrivalTime=14, serviceTime=6}, Task{ID=9, arrivalTime=15, serviceTime=3}, Task{ID=23, arrivalTime=15, serviceTime=3}, Task{ID=35, arrivalTime=15, serviceTime=3}, Task{ID=42, arrivalTime=16, serviceTime=5}, Task{ID=46, arrivalTime=16, serviceTime=2}, Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 20.74
+
+Q4 is closed
+Q2: [Task{ID=44, arrivalTime=5, serviceTime=5}]
+
+Q1: [Task{ID=18, arrivalTime=5, serviceTime=6}]
+
+Q3 is closed
+Q5 is closed
+Clienti care asteapta sa intre: [Task{ID=10, arrivalTime=8, serviceTime=1}, Task{ID=34, arrivalTime=8, serviceTime=5}, Task{ID=12, arrivalTime=9, serviceTime=1}, Task{ID=20, arrivalTime=9, serviceTime=4}, Task{ID=0, arrivalTime=11, serviceTime=1}, Task{ID=39, arrivalTime=11, serviceTime=5}, Task{ID=2, arrivalTime=12, serviceTime=4}, Task{ID=27, arrivalTime=12, serviceTime=5}, Task{ID=32, arrivalTime=12, serviceTime=5}, Task{ID=13, arrivalTime=14, serviceTime=6}, Task{ID=9, arrivalTime=15, serviceTime=3}, Task{ID=23, arrivalTime=15, serviceTime=3}, Task{ID=35, arrivalTime=15, serviceTime=3}, Task{ID=42, arrivalTime=16, serviceTime=5}, Task{ID=46, arrivalTime=16, serviceTime=2}, Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 23.78
+
+Q5 is closed
+Q3: [Task{ID=21, arrivalTime=6, serviceTime=6}]
+
+Q1: [Task{ID=18, arrivalTime=5, serviceTime=5}]
+
+Q4: [Task{ID=37, arrivalTime=6, serviceTime=5}]
+
+Q2: [Task{ID=44, arrivalTime=5, serviceTime=4}]
+
+Clienti care asteapta sa intre: [Task{ID=10, arrivalTime=8, serviceTime=1}, Task{ID=34, arrivalTime=8, serviceTime=5}, Task{ID=12, arrivalTime=9, serviceTime=1}, Task{ID=20, arrivalTime=9, serviceTime=4}, Task{ID=0, arrivalTime=11, serviceTime=1}, Task{ID=39, arrivalTime=11, serviceTime=5}, Task{ID=2, arrivalTime=12, serviceTime=4}, Task{ID=27, arrivalTime=12, serviceTime=5}, Task{ID=32, arrivalTime=12, serviceTime=5}, Task{ID=13, arrivalTime=14, serviceTime=6}, Task{ID=9, arrivalTime=15, serviceTime=3}, Task{ID=23, arrivalTime=15, serviceTime=3}, Task{ID=35, arrivalTime=15, serviceTime=3}, Task{ID=42, arrivalTime=16, serviceTime=5}, Task{ID=46, arrivalTime=16, serviceTime=2}, Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 26.82
+
+Q1: [Task{ID=18, arrivalTime=5, serviceTime=4}]
+
+Q5 is closed
+Q3: [Task{ID=21, arrivalTime=6, serviceTime=5}]
+
+Q2: [Task{ID=44, arrivalTime=5, serviceTime=3}]
+
+Q4: [Task{ID=37, arrivalTime=6, serviceTime=4}]
+
+Clienti care asteapta sa intre: [Task{ID=12, arrivalTime=9, serviceTime=1}, Task{ID=20, arrivalTime=9, serviceTime=4}, Task{ID=0, arrivalTime=11, serviceTime=1}, Task{ID=39, arrivalTime=11, serviceTime=5}, Task{ID=2, arrivalTime=12, serviceTime=4}, Task{ID=27, arrivalTime=12, serviceTime=5}, Task{ID=32, arrivalTime=12, serviceTime=5}, Task{ID=13, arrivalTime=14, serviceTime=6}, Task{ID=9, arrivalTime=15, serviceTime=3}, Task{ID=23, arrivalTime=15, serviceTime=3}, Task{ID=35, arrivalTime=15, serviceTime=3}, Task{ID=42, arrivalTime=16, serviceTime=5}, Task{ID=46, arrivalTime=16, serviceTime=2}, Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 29.74
+
+Q1: [Task{ID=18, arrivalTime=5, serviceTime=3}, Task{ID=34, arrivalTime=8, serviceTime=5}]
+
+Q5: [Task{ID=10, arrivalTime=8, serviceTime=1}]
+
+Q4: [Task{ID=37, arrivalTime=6, serviceTime=3}]
+
+Q2: [Task{ID=44, arrivalTime=5, serviceTime=2}]
+
+Q3: [Task{ID=21, arrivalTime=6, serviceTime=4}]
+
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=11, serviceTime=1}, Task{ID=39, arrivalTime=11, serviceTime=5}, Task{ID=2, arrivalTime=12, serviceTime=4}, Task{ID=27, arrivalTime=12, serviceTime=5}, Task{ID=32, arrivalTime=12, serviceTime=5}, Task{ID=13, arrivalTime=14, serviceTime=6}, Task{ID=9, arrivalTime=15, serviceTime=3}, Task{ID=23, arrivalTime=15, serviceTime=3}, Task{ID=35, arrivalTime=15, serviceTime=3}, Task{ID=42, arrivalTime=16, serviceTime=5}, Task{ID=46, arrivalTime=16, serviceTime=2}, Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 32.56
+
+Q4: [Task{ID=37, arrivalTime=6, serviceTime=2}]
+
+Q1: [Task{ID=18, arrivalTime=5, serviceTime=2}, Task{ID=34, arrivalTime=8, serviceTime=5}]
+
+Q5: [Task{ID=12, arrivalTime=9, serviceTime=1}]
+
+Q2: [Task{ID=44, arrivalTime=5, serviceTime=1}, Task{ID=20, arrivalTime=9, serviceTime=4}]
+
+Q3: [Task{ID=21, arrivalTime=6, serviceTime=3}]
+
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=11, serviceTime=1}, Task{ID=39, arrivalTime=11, serviceTime=5}, Task{ID=2, arrivalTime=12, serviceTime=4}, Task{ID=27, arrivalTime=12, serviceTime=5}, Task{ID=32, arrivalTime=12, serviceTime=5}, Task{ID=13, arrivalTime=14, serviceTime=6}, Task{ID=9, arrivalTime=15, serviceTime=3}, Task{ID=23, arrivalTime=15, serviceTime=3}, Task{ID=35, arrivalTime=15, serviceTime=3}, Task{ID=42, arrivalTime=16, serviceTime=5}, Task{ID=46, arrivalTime=16, serviceTime=2}, Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 35.38
+
+Q5 is closed
+Q4: [Task{ID=37, arrivalTime=6, serviceTime=1}]
+
+Q1: [Task{ID=18, arrivalTime=5, serviceTime=1}, Task{ID=34, arrivalTime=8, serviceTime=5}]
+
+Q3: [Task{ID=21, arrivalTime=6, serviceTime=2}]
+
+Q2: [Task{ID=20, arrivalTime=9, serviceTime=4}]
+
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=12, serviceTime=4}, Task{ID=27, arrivalTime=12, serviceTime=5}, Task{ID=32, arrivalTime=12, serviceTime=5}, Task{ID=13, arrivalTime=14, serviceTime=6}, Task{ID=9, arrivalTime=15, serviceTime=3}, Task{ID=23, arrivalTime=15, serviceTime=3}, Task{ID=35, arrivalTime=15, serviceTime=3}, Task{ID=42, arrivalTime=16, serviceTime=5}, Task{ID=46, arrivalTime=16, serviceTime=2}, Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 38.08
+
+Q5: [Task{ID=39, arrivalTime=11, serviceTime=5}]
+
+Q2: [Task{ID=20, arrivalTime=9, serviceTime=3}]
+
+Q1: [Task{ID=34, arrivalTime=8, serviceTime=5}]
+
+Q4: [Task{ID=0, arrivalTime=11, serviceTime=1}]
+
+Q3: [Task{ID=21, arrivalTime=6, serviceTime=1}]
+
+Clienti care asteapta sa intre: [Task{ID=13, arrivalTime=14, serviceTime=6}, Task{ID=9, arrivalTime=15, serviceTime=3}, Task{ID=23, arrivalTime=15, serviceTime=3}, Task{ID=35, arrivalTime=15, serviceTime=3}, Task{ID=42, arrivalTime=16, serviceTime=5}, Task{ID=46, arrivalTime=16, serviceTime=2}, Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 40.5
+
+Q4: [Task{ID=27, arrivalTime=12, serviceTime=5}]
+
+Q3: [Task{ID=2, arrivalTime=12, serviceTime=4}]
+
+Q1: [Task{ID=34, arrivalTime=8, serviceTime=4}, Task{ID=32, arrivalTime=12, serviceTime=5}]
+
+Q5: [Task{ID=39, arrivalTime=11, serviceTime=4}]
+
+Q2: [Task{ID=20, arrivalTime=9, serviceTime=2}]
+
+Clienti care asteapta sa intre: [Task{ID=13, arrivalTime=14, serviceTime=6}, Task{ID=9, arrivalTime=15, serviceTime=3}, Task{ID=23, arrivalTime=15, serviceTime=3}, Task{ID=35, arrivalTime=15, serviceTime=3}, Task{ID=42, arrivalTime=16, serviceTime=5}, Task{ID=46, arrivalTime=16, serviceTime=2}, Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 42.92
+
+Q2: [Task{ID=20, arrivalTime=9, serviceTime=1}]
+
+Q5: [Task{ID=39, arrivalTime=11, serviceTime=3}]
+
+Q1: [Task{ID=34, arrivalTime=8, serviceTime=3}, Task{ID=32, arrivalTime=12, serviceTime=5}]
+
+Q3: [Task{ID=2, arrivalTime=12, serviceTime=3}]
+
+Q4: [Task{ID=27, arrivalTime=12, serviceTime=4}]
+
+Clienti care asteapta sa intre: [Task{ID=9, arrivalTime=15, serviceTime=3}, Task{ID=23, arrivalTime=15, serviceTime=3}, Task{ID=35, arrivalTime=15, serviceTime=3}, Task{ID=42, arrivalTime=16, serviceTime=5}, Task{ID=46, arrivalTime=16, serviceTime=2}, Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 45.22
+
+Q5: [Task{ID=39, arrivalTime=11, serviceTime=2}]
+
+Q1: [Task{ID=34, arrivalTime=8, serviceTime=2}, Task{ID=32, arrivalTime=12, serviceTime=5}]
+
+Q3: [Task{ID=2, arrivalTime=12, serviceTime=2}]
+
+Q4: [Task{ID=27, arrivalTime=12, serviceTime=3}]
+
+Q2: [Task{ID=13, arrivalTime=14, serviceTime=6}]
+
+Clienti care asteapta sa intre: [Task{ID=42, arrivalTime=16, serviceTime=5}, Task{ID=46, arrivalTime=16, serviceTime=2}, Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 47.34
+
+Q5: [Task{ID=39, arrivalTime=11, serviceTime=1}]
+
+Q4: [Task{ID=27, arrivalTime=12, serviceTime=2}, Task{ID=35, arrivalTime=15, serviceTime=3}]
+
+Q3: [Task{ID=2, arrivalTime=12, serviceTime=1}, Task{ID=23, arrivalTime=15, serviceTime=3}]
+
+Q2: [Task{ID=13, arrivalTime=14, serviceTime=5}, Task{ID=9, arrivalTime=15, serviceTime=3}]
+
+Q1: [Task{ID=34, arrivalTime=8, serviceTime=1}, Task{ID=32, arrivalTime=12, serviceTime=5}]
+
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 49.32
+
+Q4: [Task{ID=27, arrivalTime=12, serviceTime=1}, Task{ID=35, arrivalTime=15, serviceTime=3}]
+
+Q5: [Task{ID=42, arrivalTime=16, serviceTime=5}]
+
+Q1: [Task{ID=32, arrivalTime=12, serviceTime=5}, Task{ID=46, arrivalTime=16, serviceTime=2}]
+
+Q2: [Task{ID=13, arrivalTime=14, serviceTime=4}, Task{ID=9, arrivalTime=15, serviceTime=3}]
+
+Q3: [Task{ID=23, arrivalTime=15, serviceTime=3}]
+
+Clienti care asteapta sa intre: [Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 51.26
+
+Q5: [Task{ID=42, arrivalTime=16, serviceTime=4}]
+
+Q1: [Task{ID=32, arrivalTime=12, serviceTime=4}, Task{ID=46, arrivalTime=16, serviceTime=2}]
+
+Q3: [Task{ID=23, arrivalTime=15, serviceTime=2}, Task{ID=1, arrivalTime=17, serviceTime=2}]
+
+Q4: [Task{ID=35, arrivalTime=15, serviceTime=3}]
+
+Q2: [Task{ID=13, arrivalTime=14, serviceTime=3}, Task{ID=9, arrivalTime=15, serviceTime=3}]
+
+Clienti care asteapta sa intre: [Task{ID=3, arrivalTime=19, serviceTime=1}, Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 53.2
+
+Q2: [Task{ID=13, arrivalTime=14, serviceTime=2}, Task{ID=9, arrivalTime=15, serviceTime=3}]
+
+Q4: [Task{ID=35, arrivalTime=15, serviceTime=2}]
+
+Q3: [Task{ID=23, arrivalTime=15, serviceTime=1}, Task{ID=1, arrivalTime=17, serviceTime=2}]
+
+Q1: [Task{ID=32, arrivalTime=12, serviceTime=3}, Task{ID=46, arrivalTime=16, serviceTime=2}]
+
+Q5: [Task{ID=42, arrivalTime=16, serviceTime=3}]
+
+Clienti care asteapta sa intre: [Task{ID=22, arrivalTime=20, serviceTime=4}, Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 55.12
+
+Q2: [Task{ID=13, arrivalTime=14, serviceTime=1}, Task{ID=9, arrivalTime=15, serviceTime=3}]
+
+Q3: [Task{ID=1, arrivalTime=17, serviceTime=2}, Task{ID=3, arrivalTime=19, serviceTime=1}]
+
+Q5: [Task{ID=42, arrivalTime=16, serviceTime=2}]
+
+Q1: [Task{ID=32, arrivalTime=12, serviceTime=2}, Task{ID=46, arrivalTime=16, serviceTime=2}]
+
+Q4: [Task{ID=35, arrivalTime=15, serviceTime=1}]
+
+Clienti care asteapta sa intre: [Task{ID=25, arrivalTime=21, serviceTime=3}, Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 56.96
+
+Q5: [Task{ID=42, arrivalTime=16, serviceTime=1}]
+
+Q3: [Task{ID=1, arrivalTime=17, serviceTime=1}, Task{ID=3, arrivalTime=19, serviceTime=1}]
+
+Q2: [Task{ID=9, arrivalTime=15, serviceTime=3}]
+
+Q4: [Task{ID=22, arrivalTime=20, serviceTime=4}]
+
+Q1: [Task{ID=32, arrivalTime=12, serviceTime=1}, Task{ID=46, arrivalTime=16, serviceTime=2}]
+
+Clienti care asteapta sa intre: [Task{ID=24, arrivalTime=22, serviceTime=5}, Task{ID=41, arrivalTime=22, serviceTime=6}, Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 58.74
+
+Q1: [Task{ID=46, arrivalTime=16, serviceTime=2}]
+
+Q4: [Task{ID=22, arrivalTime=20, serviceTime=3}]
+
+Q2: [Task{ID=9, arrivalTime=15, serviceTime=2}]
+
+Q3: [Task{ID=3, arrivalTime=19, serviceTime=1}]
+
+Q5: [Task{ID=25, arrivalTime=21, serviceTime=3}]
+
+Clienti care asteapta sa intre: [Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 60.3
+
+Q3: [Task{ID=24, arrivalTime=22, serviceTime=5}]
+
+Q1: [Task{ID=46, arrivalTime=16, serviceTime=1}, Task{ID=41, arrivalTime=22, serviceTime=6}]
+
+Q2: [Task{ID=9, arrivalTime=15, serviceTime=1}]
+
+Q4: [Task{ID=22, arrivalTime=20, serviceTime=2}]
+
+Q5: [Task{ID=25, arrivalTime=21, serviceTime=2}]
+
+Clienti care asteapta sa intre: [Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 61.86
+
+Q5: [Task{ID=25, arrivalTime=21, serviceTime=1}]
+
+Q3: [Task{ID=24, arrivalTime=22, serviceTime=4}]
+
+Q4: [Task{ID=22, arrivalTime=20, serviceTime=1}]
+
+Q1: [Task{ID=41, arrivalTime=22, serviceTime=6}]
+
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 63.42
+
+Q5 is closed
+Q1: [Task{ID=41, arrivalTime=22, serviceTime=5}]
+
+Q4 is closed
+Q3: [Task{ID=24, arrivalTime=22, serviceTime=3}]
+
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=38, arrivalTime=26, serviceTime=1}, Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 64.98
+
+Q3: [Task{ID=24, arrivalTime=22, serviceTime=2}]
+
+Q2 is closed
+Q4 is closed
+Q5 is closed
+Q1: [Task{ID=41, arrivalTime=22, serviceTime=4}]
+
+Clienti care asteapta sa intre: [Task{ID=6, arrivalTime=27, serviceTime=2}, Task{ID=7, arrivalTime=27, serviceTime=5}, Task{ID=16, arrivalTime=27, serviceTime=3}, Task{ID=45, arrivalTime=27, serviceTime=1}, Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 66.52
+
+Q5 is closed
+Q2: [Task{ID=38, arrivalTime=26, serviceTime=1}]
+
+Q3: [Task{ID=24, arrivalTime=22, serviceTime=1}]
+
+Q1: [Task{ID=41, arrivalTime=22, serviceTime=3}]
+
+Q4 is closed
+Clienti care asteapta sa intre: [Task{ID=8, arrivalTime=28, serviceTime=6}, Task{ID=17, arrivalTime=28, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}, Task{ID=28, arrivalTime=28, serviceTime=6}, Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 67.84
+
+Q4: [Task{ID=16, arrivalTime=27, serviceTime=3}]
+
+Q1: [Task{ID=41, arrivalTime=22, serviceTime=2}]
+
+Q3: [Task{ID=7, arrivalTime=27, serviceTime=5}]
+
+Q5: [Task{ID=45, arrivalTime=27, serviceTime=1}]
+
+Q2: [Task{ID=6, arrivalTime=27, serviceTime=2}]
+
+Clienti care asteapta sa intre: [Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 68.78
+
+Q5: [Task{ID=8, arrivalTime=28, serviceTime=6}]
+
+Q2: [Task{ID=6, arrivalTime=27, serviceTime=1}, Task{ID=26, arrivalTime=28, serviceTime=6}]
+
+Q4: [Task{ID=16, arrivalTime=27, serviceTime=2}]
+
+Q3: [Task{ID=7, arrivalTime=27, serviceTime=4}, Task{ID=28, arrivalTime=28, serviceTime=6}]
+
+Q1: [Task{ID=41, arrivalTime=22, serviceTime=1}, Task{ID=17, arrivalTime=28, serviceTime=1}]
+
+Clienti care asteapta sa intre: [Task{ID=19, arrivalTime=30, serviceTime=2}, Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 69.72
+
+Q4: [Task{ID=16, arrivalTime=27, serviceTime=1}]
+
+Q3: [Task{ID=7, arrivalTime=27, serviceTime=3}, Task{ID=28, arrivalTime=28, serviceTime=6}]
+
+Q2: [Task{ID=26, arrivalTime=28, serviceTime=6}]
+
+Q5: [Task{ID=8, arrivalTime=28, serviceTime=5}]
+
+Q1: [Task{ID=17, arrivalTime=28, serviceTime=1}]
+
+Clienti care asteapta sa intre: [Task{ID=49, arrivalTime=31, serviceTime=1}, Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 70.62
+
+Q5: [Task{ID=8, arrivalTime=28, serviceTime=4}]
+
+Q2: [Task{ID=26, arrivalTime=28, serviceTime=5}]
+
+Q1: [Task{ID=19, arrivalTime=30, serviceTime=2}]
+
+Q3: [Task{ID=7, arrivalTime=27, serviceTime=2}, Task{ID=28, arrivalTime=28, serviceTime=6}]
+
+Q4 is closed
+Clienti care asteapta sa intre: [Task{ID=33, arrivalTime=32, serviceTime=2}, Task{ID=36, arrivalTime=32, serviceTime=3}, Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 71.5
+
+Q2: [Task{ID=26, arrivalTime=28, serviceTime=4}]
+
+Q1: [Task{ID=19, arrivalTime=30, serviceTime=1}]
+
+Q5: [Task{ID=8, arrivalTime=28, serviceTime=3}]
+
+Q3: [Task{ID=7, arrivalTime=27, serviceTime=1}, Task{ID=28, arrivalTime=28, serviceTime=6}]
+
+Q4: [Task{ID=49, arrivalTime=31, serviceTime=1}]
+
+Clienti care asteapta sa intre: [Task{ID=4, arrivalTime=33, serviceTime=4}, Task{ID=5, arrivalTime=33, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}, Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 72.28
+
+Q5: [Task{ID=8, arrivalTime=28, serviceTime=2}]
+
+Q1: [Task{ID=33, arrivalTime=32, serviceTime=2}]
+
+Q2: [Task{ID=26, arrivalTime=28, serviceTime=3}]
+
+Q4: [Task{ID=36, arrivalTime=32, serviceTime=3}]
+
+Q3: [Task{ID=28, arrivalTime=28, serviceTime=6}]
+
+Clienti care asteapta sa intre: [Task{ID=43, arrivalTime=34, serviceTime=2}, Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 72.86
+
+Q4: [Task{ID=36, arrivalTime=32, serviceTime=2}]
+
+Q2: [Task{ID=26, arrivalTime=28, serviceTime=2}, Task{ID=5, arrivalTime=33, serviceTime=1}]
+
+Q1: [Task{ID=33, arrivalTime=32, serviceTime=1}, Task{ID=4, arrivalTime=33, serviceTime=4}]
+
+Q5: [Task{ID=8, arrivalTime=28, serviceTime=1}]
+
+Q3: [Task{ID=28, arrivalTime=28, serviceTime=5}, Task{ID=40, arrivalTime=33, serviceTime=5}]
+
+Clienti care asteapta sa intre: [Task{ID=14, arrivalTime=35, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}, Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 73.4
+
+Q2: [Task{ID=26, arrivalTime=28, serviceTime=1}, Task{ID=5, arrivalTime=33, serviceTime=1}]
+
+Q3: [Task{ID=28, arrivalTime=28, serviceTime=4}, Task{ID=40, arrivalTime=33, serviceTime=5}]
+
+Q4: [Task{ID=36, arrivalTime=32, serviceTime=1}]
+
+Q5: [Task{ID=43, arrivalTime=34, serviceTime=2}]
+
+Q1: [Task{ID=4, arrivalTime=33, serviceTime=4}]
+
+Clienti care asteapta sa intre: [Task{ID=29, arrivalTime=36, serviceTime=2}, Task{ID=30, arrivalTime=36, serviceTime=5}, Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 73.8
+
+Q1: [Task{ID=4, arrivalTime=33, serviceTime=3}, Task{ID=31, arrivalTime=35, serviceTime=4}]
+
+Q4: [Task{ID=14, arrivalTime=35, serviceTime=3}]
+
+Q3: [Task{ID=28, arrivalTime=28, serviceTime=3}, Task{ID=40, arrivalTime=33, serviceTime=5}]
+
+Q2: [Task{ID=5, arrivalTime=33, serviceTime=1}]
+
+Q5: [Task{ID=43, arrivalTime=34, serviceTime=1}]
+
+Clienti care asteapta sa intre: [Task{ID=47, arrivalTime=37, serviceTime=3}, Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 74.06
+
+Q4: [Task{ID=14, arrivalTime=35, serviceTime=2}]
+
+Q3: [Task{ID=28, arrivalTime=28, serviceTime=2}, Task{ID=40, arrivalTime=33, serviceTime=5}]
+
+Q5: [Task{ID=30, arrivalTime=36, serviceTime=5}]
+
+Q1: [Task{ID=4, arrivalTime=33, serviceTime=2}, Task{ID=31, arrivalTime=35, serviceTime=4}]
+
+Q2: [Task{ID=29, arrivalTime=36, serviceTime=2}]
+
+Clienti care asteapta sa intre: [Task{ID=15, arrivalTime=38, serviceTime=4}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 74.26
+
+Q5: [Task{ID=30, arrivalTime=36, serviceTime=4}]
+
+Q1: [Task{ID=4, arrivalTime=33, serviceTime=1}, Task{ID=31, arrivalTime=35, serviceTime=4}]
+
+Q3: [Task{ID=28, arrivalTime=28, serviceTime=1}, Task{ID=40, arrivalTime=33, serviceTime=5}]
+
+Q2: [Task{ID=29, arrivalTime=36, serviceTime=1}, Task{ID=47, arrivalTime=37, serviceTime=3}]
+
+Q4: [Task{ID=14, arrivalTime=35, serviceTime=1}]
+
+Clienti care asteapta sa intre: [Task{ID=48, arrivalTime=39, serviceTime=6}]
+Average wainting time is 74.38
+
+Q3: [Task{ID=40, arrivalTime=33, serviceTime=5}]
+
+Q5: [Task{ID=30, arrivalTime=36, serviceTime=3}]
+
+Q4: [Task{ID=15, arrivalTime=38, serviceTime=4}]
+
+Q1: [Task{ID=31, arrivalTime=35, serviceTime=4}]
+
+Q2: [Task{ID=47, arrivalTime=37, serviceTime=3}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q2: [Task{ID=47, arrivalTime=37, serviceTime=2}]
+
+Q5: [Task{ID=30, arrivalTime=36, serviceTime=2}]
+
+Q1: [Task{ID=31, arrivalTime=35, serviceTime=3}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+
+Q3: [Task{ID=40, arrivalTime=33, serviceTime=4}]
+
+Q4: [Task{ID=15, arrivalTime=38, serviceTime=3}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q4: [Task{ID=15, arrivalTime=38, serviceTime=2}]
+
+Q1: [Task{ID=31, arrivalTime=35, serviceTime=2}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+
+Q2: [Task{ID=47, arrivalTime=37, serviceTime=1}]
+
+Q3: [Task{ID=40, arrivalTime=33, serviceTime=3}]
+
+Q5: [Task{ID=30, arrivalTime=36, serviceTime=1}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q5 is closed
+Q3: [Task{ID=40, arrivalTime=33, serviceTime=2}]
+
+Q2 is closed
+Q4: [Task{ID=15, arrivalTime=38, serviceTime=1}]
+
+Q1: [Task{ID=31, arrivalTime=35, serviceTime=1}, Task{ID=48, arrivalTime=39, serviceTime=6}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q5 is closed
+Q4 is closed
+Q3: [Task{ID=40, arrivalTime=33, serviceTime=1}]
+
+Q2 is closed
+Q1: [Task{ID=48, arrivalTime=39, serviceTime=6}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q3 is closed
+Q2 is closed
+Q1: [Task{ID=48, arrivalTime=39, serviceTime=5}]
+
+Q5 is closed
+Q4 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q4 is closed
+Q2 is closed
+Q3 is closed
+Q1: [Task{ID=48, arrivalTime=39, serviceTime=4}]
+
+Q5 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q5 is closed
+Q2 is closed
+Q3 is closed
+Q1: [Task{ID=48, arrivalTime=39, serviceTime=3}]
+
+Q4 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q4 is closed
+Q2 is closed
+Q1: [Task{ID=48, arrivalTime=39, serviceTime=2}]
+
+Q5 is closed
+Q3 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q2 is closed
+Q3 is closed
+Q5 is closed
+Q1: [Task{ID=48, arrivalTime=39, serviceTime=1}]
+
+Q4 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q4 is closed
+Q2 is closed
+Q1 is closed
+Q3 is closed
+Q5 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q3 is closed
+Q2 is closed
+Q5 is closed
+Q4 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q3 is closed
+Q4 is closed
+Q2 is closed
+Q5 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q4 is closed
+Q5 is closed
+Q1 is closed
+Q3 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q2 is closed
+Q5 is closed
+Q3 is closed
+Q1 is closed
+Q4 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q2 is closed
+Q3 is closed
+Q1 is closed
+Q5 is closed
+Q4 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q3 is closed
+Q1 is closed
+Q5 is closed
+Q2 is closed
+Q4 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q1 is closed
+Q2 is closed
+Q5 is closed
+Q3 is closed
+Q4 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q2 is closed
+Q1 is closed
+Q5 is closed
+Q3 is closed
+Q4 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q2 is closed
+Q5 is closed
+Q4 is closed
+Q1 is closed
+Q3 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q1 is closed
+Q5 is closed
+Q2 is closed
+Q3 is closed
+Q4 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 74.38
+
+Q4 is closed
+Q5 is closed
+Q2 is closed
+Q3 is closed
+Q1 is closed

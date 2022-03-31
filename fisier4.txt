@@ -1,0 +1,1394 @@
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=3, serviceTime=4}, Task{ID=1, arrivalTime=3, serviceTime=8}, Task{ID=2, arrivalTime=3, serviceTime=3}]
+Average wainting time is 5.0
+
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=2, serviceTime=6}, Task{ID=0, arrivalTime=3, serviceTime=4}, Task{ID=2, arrivalTime=3, serviceTime=7}]
+Average wainting time is 5.6666665
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=2, serviceTime=6}, Task{ID=0, arrivalTime=3, serviceTime=4}, Task{ID=2, arrivalTime=3, serviceTime=7}]
+Average wainting time is 11.333333
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=3, serviceTime=4}, Task{ID=2, arrivalTime=3, serviceTime=7}]
+Average wainting time is 15.0
+
+Q2 is closed
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=6}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 15.0
+
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=5}, Task{ID=2, arrivalTime=3, serviceTime=7}]
+
+Q2: [Task{ID=0, arrivalTime=3, serviceTime=4}]
+
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=4}, Task{ID=2, arrivalTime=3, serviceTime=7}]
+
+Q2: [Task{ID=0, arrivalTime=3, serviceTime=3}]
+
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=3}, Task{ID=2, arrivalTime=3, serviceTime=7}]
+
+Q2: [Task{ID=0, arrivalTime=3, serviceTime=2}]
+
+Q2: [Task{ID=0, arrivalTime=3, serviceTime=1}]
+
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=2}, Task{ID=2, arrivalTime=3, serviceTime=7}]
+
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=1}, Task{ID=2, arrivalTime=3, serviceTime=7}]
+
+Q2 is closed
+Q1: [Task{ID=2, arrivalTime=3, serviceTime=7}]
+
+Q2 is closed
+Q2 is closed
+Q1: [Task{ID=2, arrivalTime=3, serviceTime=6}]
+
+Q2 is closed
+Q1: [Task{ID=2, arrivalTime=3, serviceTime=5}]
+
+Q2 is closed
+Q1: [Task{ID=2, arrivalTime=3, serviceTime=4}]
+
+Q2 is closed
+Q1: [Task{ID=2, arrivalTime=3, serviceTime=3}]
+
+Q2 is closed
+Q1: [Task{ID=2, arrivalTime=3, serviceTime=2}]
+
+Q1: [Task{ID=2, arrivalTime=3, serviceTime=1}]
+
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=2, serviceTime=8}, Task{ID=1, arrivalTime=3, serviceTime=6}, Task{ID=0, arrivalTime=4, serviceTime=4}]
+Average wainting time is 6.0
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=2, serviceTime=8}, Task{ID=1, arrivalTime=3, serviceTime=6}, Task{ID=0, arrivalTime=4, serviceTime=4}]
+Average wainting time is 12.0
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=3, serviceTime=6}, Task{ID=0, arrivalTime=4, serviceTime=4}]
+Average wainting time is 15.333333
+
+Q2 is closed
+Q1: [Task{ID=2, arrivalTime=2, serviceTime=8}]
+
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=4, serviceTime=4}]
+Average wainting time is 16.666666
+
+Q1: [Task{ID=2, arrivalTime=2, serviceTime=7}]
+
+Q2: [Task{ID=1, arrivalTime=3, serviceTime=6}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 16.666666
+
+Q2: [Task{ID=1, arrivalTime=3, serviceTime=5}]
+
+Q1: [Task{ID=2, arrivalTime=2, serviceTime=6}, Task{ID=0, arrivalTime=4, serviceTime=4}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 16.666666
+
+Q1: [Task{ID=2, arrivalTime=2, serviceTime=5}, Task{ID=0, arrivalTime=4, serviceTime=4}]
+
+Q2: [Task{ID=1, arrivalTime=3, serviceTime=4}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 16.666666
+
+Q2: [Task{ID=1, arrivalTime=3, serviceTime=3}]
+
+Q1: [Task{ID=2, arrivalTime=2, serviceTime=4}, Task{ID=0, arrivalTime=4, serviceTime=4}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 16.666666
+
+Q2: [Task{ID=1, arrivalTime=3, serviceTime=2}]
+
+Q1: [Task{ID=2, arrivalTime=2, serviceTime=3}, Task{ID=0, arrivalTime=4, serviceTime=4}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 16.666666
+
+Q1: [Task{ID=2, arrivalTime=2, serviceTime=2}, Task{ID=0, arrivalTime=4, serviceTime=4}]
+
+Q2: [Task{ID=1, arrivalTime=3, serviceTime=1}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 16.666666
+
+Q2 is closed
+Q1: [Task{ID=2, arrivalTime=2, serviceTime=1}, Task{ID=0, arrivalTime=4, serviceTime=4}]
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=3, serviceTime=5}, Task{ID=1, arrivalTime=3, serviceTime=3}, Task{ID=2, arrivalTime=3, serviceTime=7}]
+Average wainting time is 5.0
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=3, serviceTime=5}, Task{ID=1, arrivalTime=3, serviceTime=3}, Task{ID=2, arrivalTime=3, serviceTime=7}]
+Average wainting time is 10.0
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=3, serviceTime=5}, Task{ID=1, arrivalTime=3, serviceTime=3}, Task{ID=2, arrivalTime=3, serviceTime=7}]
+Average wainting time is 15.0
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 15.0
+
+Q2: [Task{ID=1, arrivalTime=3, serviceTime=3}]
+
+Q1: [Task{ID=0, arrivalTime=3, serviceTime=5}, Task{ID=2, arrivalTime=3, serviceTime=7}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 15.0
+
+Q1: [Task{ID=0, arrivalTime=3, serviceTime=4}, Task{ID=2, arrivalTime=3, serviceTime=7}]
+
+Q2: [Task{ID=1, arrivalTime=3, serviceTime=2}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 15.0
+
+Q1: [Task{ID=0, arrivalTime=3, serviceTime=3}, Task{ID=2, arrivalTime=3, serviceTime=7}]
+
+Q2: [Task{ID=1, arrivalTime=3, serviceTime=1}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 15.0
+
+Q1: [Task{ID=0, arrivalTime=3, serviceTime=2}, Task{ID=2, arrivalTime=3, serviceTime=7}]
+
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 15.0
+
+Q2 is closed
+Q1: [Task{ID=0, arrivalTime=3, serviceTime=1}, Task{ID=2, arrivalTime=3, serviceTime=7}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 15.0
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=2, serviceTime=6}, Task{ID=2, arrivalTime=2, serviceTime=4}, Task{ID=0, arrivalTime=4, serviceTime=6}]
+Average wainting time is 5.3333335
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=2, serviceTime=6}, Task{ID=2, arrivalTime=2, serviceTime=4}, Task{ID=0, arrivalTime=4, serviceTime=6}]
+Average wainting time is 10.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=4, serviceTime=6}]
+Average wainting time is 12.666667
+
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=6}]
+
+Q2: [Task{ID=2, arrivalTime=2, serviceTime=4}]
+
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=4, serviceTime=6}]
+Average wainting time is 14.666667
+
+Q2: [Task{ID=2, arrivalTime=2, serviceTime=3}]
+
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=5}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q2: [Task{ID=2, arrivalTime=2, serviceTime=2}]
+
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=4}, Task{ID=0, arrivalTime=4, serviceTime=6}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q2: [Task{ID=2, arrivalTime=2, serviceTime=1}]
+
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=3}, Task{ID=0, arrivalTime=4, serviceTime=6}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q2 is closed
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=2}, Task{ID=0, arrivalTime=4, serviceTime=6}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q2 is closed
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=1}, Task{ID=0, arrivalTime=4, serviceTime=6}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q2 is closed
+Q1: [Task{ID=0, arrivalTime=4, serviceTime=6}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q2 is closed
+Q1: [Task{ID=0, arrivalTime=4, serviceTime=5}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q2 is closed
+Q1: [Task{ID=0, arrivalTime=4, serviceTime=4}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q1: [Task{ID=0, arrivalTime=4, serviceTime=3}]
+
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q1: [Task{ID=0, arrivalTime=4, serviceTime=2}]
+
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q2 is closed
+Q1: [Task{ID=0, arrivalTime=4, serviceTime=1}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 14.666667
+
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=2, serviceTime=3}, Task{ID=0, arrivalTime=3, serviceTime=3}, Task{ID=1, arrivalTime=4, serviceTime=4}]
+Average wainting time is 3.3333333
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=2, serviceTime=3}, Task{ID=0, arrivalTime=3, serviceTime=3}, Task{ID=1, arrivalTime=4, serviceTime=4}]
+Average wainting time is 6.6666665
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=3, serviceTime=3}, Task{ID=1, arrivalTime=4, serviceTime=4}]
+Average wainting time is 9.0
+
+Q2 is closed
+Q1: [Task{ID=2, arrivalTime=2, serviceTime=3}]
+
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=4, serviceTime=4}]
+Average wainting time is 10.333333
+
+Q2: [Task{ID=0, arrivalTime=3, serviceTime=3}]
+
+Q1: [Task{ID=2, arrivalTime=2, serviceTime=2}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 10.333333
+
+Q2: [Task{ID=0, arrivalTime=3, serviceTime=2}]
+
+Q1: [Task{ID=2, arrivalTime=2, serviceTime=1}, Task{ID=1, arrivalTime=4, serviceTime=4}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 10.333333
+
+Q2: [Task{ID=0, arrivalTime=3, serviceTime=1}]
+
+Q1: [Task{ID=1, arrivalTime=4, serviceTime=4}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 10.333333
+
+Q2 is closed
+Q1: [Task{ID=1, arrivalTime=4, serviceTime=3}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 10.333333
+
+Q2 is closed
+Q1: [Task{ID=1, arrivalTime=4, serviceTime=2}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 10.333333
+
+Q2 is closed
+Q1: [Task{ID=1, arrivalTime=4, serviceTime=1}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 10.333333
+
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=2, serviceTime=3}, Task{ID=1, arrivalTime=4, serviceTime=6}, Task{ID=2, arrivalTime=4, serviceTime=6}]
+Average wainting time is 5.0
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=2, serviceTime=3}, Task{ID=1, arrivalTime=4, serviceTime=6}, Task{ID=2, arrivalTime=4, serviceTime=6}]
+Average wainting time is 10.0
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=4, serviceTime=6}, Task{ID=2, arrivalTime=4, serviceTime=6}]
+Average wainting time is 14.0
+
+Q1: [Task{ID=0, arrivalTime=2, serviceTime=3}]
+
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=4, serviceTime=6}, Task{ID=2, arrivalTime=4, serviceTime=6}]
+Average wainting time is 18.0
+
+Q2 is closed
+Q1: [Task{ID=0, arrivalTime=2, serviceTime=2}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.0
+
+Q2: [Task{ID=1, arrivalTime=4, serviceTime=6}]
+
+Q1: [Task{ID=0, arrivalTime=2, serviceTime=1}, Task{ID=2, arrivalTime=4, serviceTime=6}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.0
+
+Q2: [Task{ID=1, arrivalTime=4, serviceTime=5}]
+
+Q1: [Task{ID=2, arrivalTime=4, serviceTime=6}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.0
+
+Q2: [Task{ID=1, arrivalTime=4, serviceTime=4}]
+
+Q1: [Task{ID=2, arrivalTime=4, serviceTime=5}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.0
+
+Q2: [Task{ID=1, arrivalTime=4, serviceTime=3}]
+
+Q1: [Task{ID=2, arrivalTime=4, serviceTime=4}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.0
+
+Q2: [Task{ID=1, arrivalTime=4, serviceTime=2}]
+
+Q1: [Task{ID=2, arrivalTime=4, serviceTime=3}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.0
+
+Q1: [Task{ID=2, arrivalTime=4, serviceTime=2}]
+
+Q2: [Task{ID=1, arrivalTime=4, serviceTime=1}]
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=2, serviceTime=4}, Task{ID=1, arrivalTime=2, serviceTime=9}, Task{ID=2, arrivalTime=3, serviceTime=3}]
+Average wainting time is 5.3333335
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=2, serviceTime=4}, Task{ID=1, arrivalTime=2, serviceTime=9}, Task{ID=2, arrivalTime=3, serviceTime=3}]
+Average wainting time is 10.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=3, serviceTime=3}]
+Average wainting time is 11.666667
+
+Q1: [Task{ID=0, arrivalTime=2, serviceTime=4}]
+
+Q2: [Task{ID=1, arrivalTime=2, serviceTime=9}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q1: [Task{ID=0, arrivalTime=2, serviceTime=3}, Task{ID=2, arrivalTime=3, serviceTime=3}]
+
+Q2: [Task{ID=1, arrivalTime=2, serviceTime=8}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2: [Task{ID=1, arrivalTime=2, serviceTime=7}]
+
+Q1: [Task{ID=0, arrivalTime=2, serviceTime=2}, Task{ID=2, arrivalTime=3, serviceTime=3}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2: [Task{ID=1, arrivalTime=2, serviceTime=6}]
+
+Q1: [Task{ID=0, arrivalTime=2, serviceTime=1}, Task{ID=2, arrivalTime=3, serviceTime=3}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q1: [Task{ID=2, arrivalTime=3, serviceTime=3}]
+
+Q2: [Task{ID=1, arrivalTime=2, serviceTime=5}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2: [Task{ID=1, arrivalTime=2, serviceTime=4}]
+
+Q1: [Task{ID=2, arrivalTime=3, serviceTime=2}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q1: [Task{ID=2, arrivalTime=3, serviceTime=1}]
+
+Q2: [Task{ID=1, arrivalTime=2, serviceTime=3}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q1 is closed
+Q2: [Task{ID=1, arrivalTime=2, serviceTime=2}]
+
+Q1 is closed
+Q2: [Task{ID=1, arrivalTime=2, serviceTime=1}]
+
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=2, serviceTime=4}, Task{ID=2, arrivalTime=3, serviceTime=5}, Task{ID=0, arrivalTime=4, serviceTime=8}]
+Average wainting time is 5.6666665
+
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=2, serviceTime=4}, Task{ID=2, arrivalTime=3, serviceTime=5}, Task{ID=0, arrivalTime=4, serviceTime=8}]
+Average wainting time is 11.333333
+
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=3, serviceTime=5}, Task{ID=0, arrivalTime=4, serviceTime=8}]
+Average wainting time is 15.666667
+
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=4, serviceTime=8}]
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Clienti care asteapta sa intre: []
+Average wainting time is 18.333334
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=2, serviceTime=4}, Task{ID=2, arrivalTime=3, serviceTime=7}, Task{ID=1, arrivalTime=4, serviceTime=7}]
+Average wainting time is 6.0
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=2, serviceTime=4}, Task{ID=2, arrivalTime=3, serviceTime=7}, Task{ID=1, arrivalTime=4, serviceTime=7}]
+Average wainting time is 12.0
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=3, serviceTime=7}, Task{ID=1, arrivalTime=4, serviceTime=7}]
+Average wainting time is 16.666666
+
+Q2 is closed
+Q1: [Task{ID=0, arrivalTime=2, serviceTime=4}]
+
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=4, serviceTime=7}]
+Average wainting time is 19.0
+
+Q2: [Task{ID=2, arrivalTime=3, serviceTime=7}]
+
+Q1: [Task{ID=0, arrivalTime=2, serviceTime=3}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 19.0
+
+Q2: [Task{ID=2, arrivalTime=3, serviceTime=6}]
+
+Q1: [Task{ID=0, arrivalTime=2, serviceTime=2}, Task{ID=1, arrivalTime=4, serviceTime=7}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 19.0
+
+Q1: [Task{ID=0, arrivalTime=2, serviceTime=1}, Task{ID=1, arrivalTime=4, serviceTime=7}]
+
+Q2: [Task{ID=2, arrivalTime=3, serviceTime=5}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 19.0
+
+Q2: [Task{ID=2, arrivalTime=3, serviceTime=4}]
+
+Q1: [Task{ID=1, arrivalTime=4, serviceTime=7}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 19.0
+
+Q1: [Task{ID=1, arrivalTime=4, serviceTime=6}]
+
+Q2: [Task{ID=2, arrivalTime=3, serviceTime=3}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 19.0
+
+Q2: [Task{ID=2, arrivalTime=3, serviceTime=2}]
+
+Q1: [Task{ID=1, arrivalTime=4, serviceTime=5}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 19.0
+
+Q1: [Task{ID=1, arrivalTime=4, serviceTime=4}]
+
+Q2: [Task{ID=2, arrivalTime=3, serviceTime=1}]
+
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=2, serviceTime=4}, Task{ID=2, arrivalTime=2, serviceTime=7}, Task{ID=0, arrivalTime=3, serviceTime=6}]
+Average wainting time is 5.6666665
+
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=2, serviceTime=4}, Task{ID=2, arrivalTime=2, serviceTime=7}, Task{ID=0, arrivalTime=3, serviceTime=6}]
+Average wainting time is 11.333333
+
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=3, serviceTime=6}]
+Average wainting time is 13.333333
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=2, serviceTime=3}, Task{ID=1, arrivalTime=4, serviceTime=7}, Task{ID=2, arrivalTime=4, serviceTime=8}]
+Average wainting time is 6.0
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=2, serviceTime=3}, Task{ID=1, arrivalTime=4, serviceTime=7}, Task{ID=2, arrivalTime=4, serviceTime=8}]
+Average wainting time is 12.0
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=4, serviceTime=7}, Task{ID=2, arrivalTime=4, serviceTime=8}]
+Average wainting time is 17.0
+
+Q2 is closed
+Q1: [Task{ID=0, arrivalTime=2, serviceTime=3}]
+
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=4, serviceTime=7}, Task{ID=2, arrivalTime=4, serviceTime=8}]
+Average wainting time is 22.0
+
+Q1: [Task{ID=0, arrivalTime=2, serviceTime=2}]
+
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 22.0
+
+Q1: [Task{ID=0, arrivalTime=2, serviceTime=1}, Task{ID=2, arrivalTime=4, serviceTime=8}]
+
+Q2: [Task{ID=1, arrivalTime=4, serviceTime=7}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 22.0
+
+Q1: [Task{ID=2, arrivalTime=4, serviceTime=8}]
+
+Q2: [Task{ID=1, arrivalTime=4, serviceTime=6}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 22.0
+
+Q1: [Task{ID=2, arrivalTime=4, serviceTime=7}]
+
+Q2: [Task{ID=1, arrivalTime=4, serviceTime=5}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 22.0
+
+Q1: [Task{ID=2, arrivalTime=4, serviceTime=6}]
+
+Q2: [Task{ID=1, arrivalTime=4, serviceTime=4}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 22.0
+
+Q1: [Task{ID=2, arrivalTime=4, serviceTime=5}]
+
+Q2: [Task{ID=1, arrivalTime=4, serviceTime=3}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 22.0
+
+Q1: [Task{ID=2, arrivalTime=4, serviceTime=4}]
+
+Q2: [Task{ID=1, arrivalTime=4, serviceTime=2}]
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=2, serviceTime=5}, Task{ID=2, arrivalTime=2, serviceTime=5}, Task{ID=0, arrivalTime=3, serviceTime=5}]
+Average wainting time is 5.0
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=2, serviceTime=5}, Task{ID=2, arrivalTime=2, serviceTime=5}, Task{ID=0, arrivalTime=3, serviceTime=5}]
+Average wainting time is 10.0
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=3, serviceTime=5}]
+Average wainting time is 11.666667
+
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=5}]
+
+Q2: [Task{ID=2, arrivalTime=2, serviceTime=5}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2: [Task{ID=2, arrivalTime=2, serviceTime=4}]
+
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=4}, Task{ID=0, arrivalTime=3, serviceTime=5}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=3}, Task{ID=0, arrivalTime=3, serviceTime=5}]
+
+Q2: [Task{ID=2, arrivalTime=2, serviceTime=3}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2: [Task{ID=2, arrivalTime=2, serviceTime=2}]
+
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=2}, Task{ID=0, arrivalTime=3, serviceTime=5}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=1}, Task{ID=0, arrivalTime=3, serviceTime=5}]
+
+Q2: [Task{ID=2, arrivalTime=2, serviceTime=1}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1: [Task{ID=0, arrivalTime=3, serviceTime=5}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1: [Task{ID=0, arrivalTime=3, serviceTime=4}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1: [Task{ID=0, arrivalTime=3, serviceTime=3}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1: [Task{ID=0, arrivalTime=3, serviceTime=2}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1: [Task{ID=0, arrivalTime=3, serviceTime=1}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 11.666667
+
+Q2 is closed
+Q1 is closed
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=2, serviceTime=4}, Task{ID=0, arrivalTime=3, serviceTime=7}, Task{ID=2, arrivalTime=3, serviceTime=6}]
+Average wainting time is 5.6666665
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=2, serviceTime=4}, Task{ID=0, arrivalTime=3, serviceTime=7}, Task{ID=2, arrivalTime=3, serviceTime=6}]
+Average wainting time is 11.333333
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=3, serviceTime=7}, Task{ID=2, arrivalTime=3, serviceTime=6}]
+Average wainting time is 15.666667
+
+Q2 is closed
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=4}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 15.666667
+
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=3}, Task{ID=2, arrivalTime=3, serviceTime=6}]
+
+Q2: [Task{ID=0, arrivalTime=3, serviceTime=7}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 15.666667
+
+Q2: [Task{ID=0, arrivalTime=3, serviceTime=6}]
+
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=2}, Task{ID=2, arrivalTime=3, serviceTime=6}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 15.666667
+
+Q1: [Task{ID=1, arrivalTime=2, serviceTime=1}, Task{ID=2, arrivalTime=3, serviceTime=6}]
+
+Q2: [Task{ID=0, arrivalTime=3, serviceTime=5}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 15.666667
+
+Q1: [Task{ID=2, arrivalTime=3, serviceTime=6}]
+
+Q2: [Task{ID=0, arrivalTime=3, serviceTime=4}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 15.666667
+
+Q1: [Task{ID=2, arrivalTime=3, serviceTime=5}]
+
+Q2: [Task{ID=0, arrivalTime=3, serviceTime=3}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 15.666667
+
+Q1: [Task{ID=2, arrivalTime=3, serviceTime=4}]
+
+Q2: [Task{ID=0, arrivalTime=3, serviceTime=2}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 15.666667
+
+Q1: [Task{ID=2, arrivalTime=3, serviceTime=3}]
+
+Q2: [Task{ID=0, arrivalTime=3, serviceTime=1}]
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=2, serviceTime=8}, Task{ID=0, arrivalTime=3, serviceTime=5}, Task{ID=1, arrivalTime=3, serviceTime=3}]
+Average wainting time is 5.3333335
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=2, serviceTime=8}, Task{ID=0, arrivalTime=3, serviceTime=5}, Task{ID=1, arrivalTime=3, serviceTime=3}]
+Average wainting time is 10.666667
+
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=3, serviceTime=5}, Task{ID=1, arrivalTime=3, serviceTime=3}]
+Average wainting time is 13.333333
+
+Clienti care asteapta sa intre: []
+Average wainting time is 13.333333
+
+Clienti care asteapta sa intre: []
+Average wainting time is 13.333333
+
+Clienti care asteapta sa intre: []
+Average wainting time is 13.333333
+
+Clienti care asteapta sa intre: []
+Average wainting time is 13.333333
+
+Clienti care asteapta sa intre: []
+Average wainting time is 13.333333
+
+Clienti care asteapta sa intre: []
+Average wainting time is 13.333333
+
+Clienti care asteapta sa intre: []
+Average wainting time is 13.333333
+
+Clienti care asteapta sa intre: []
+Average wainting time is 13.333333
+
+Clienti care asteapta sa intre: []
+Average wainting time is 13.333333
+
+Clienti care asteapta sa intre: []
+Average wainting time is 13.333333
+
+Clienti care asteapta sa intre: []
+Average wainting time is 13.333333
+
+Clienti care asteapta sa intre: []
+Average wainting time is 13.333333
+
+Clienti care asteapta sa intre: []
+Average wainting time is 13.333333
+
+Clienti care asteapta sa intre: []
+Average wainting time is 13.333333
+
+Clienti care asteapta sa intre: []
+Average wainting time is 13.333333
+
+Clienti care asteapta sa intre: []
+Average wainting time is 13.333333
+
+Clienti care asteapta sa intre: []
+Average wainting time is 13.333333
+

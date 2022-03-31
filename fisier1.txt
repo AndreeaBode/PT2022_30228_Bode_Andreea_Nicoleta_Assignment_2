@@ -1,0 +1,313 @@
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=9, serviceTime=3}, Task{ID=3, arrivalTime=14, serviceTime=3}, Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 2.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=9, serviceTime=3}, Task{ID=3, arrivalTime=14, serviceTime=3}, Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 5.5
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=9, serviceTime=3}, Task{ID=3, arrivalTime=14, serviceTime=3}, Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 8.25
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=9, serviceTime=3}, Task{ID=3, arrivalTime=14, serviceTime=3}, Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 11.0
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=9, serviceTime=3}, Task{ID=3, arrivalTime=14, serviceTime=3}, Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 13.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=9, serviceTime=3}, Task{ID=3, arrivalTime=14, serviceTime=3}, Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 16.5
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=9, serviceTime=3}, Task{ID=3, arrivalTime=14, serviceTime=3}, Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 19.25
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=9, serviceTime=3}, Task{ID=3, arrivalTime=14, serviceTime=3}, Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 22.0
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=2, arrivalTime=9, serviceTime=3}, Task{ID=3, arrivalTime=14, serviceTime=3}, Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 24.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=3, arrivalTime=14, serviceTime=3}, Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 26.75
+
+Q2 is closed
+Q1: [Task{ID=2, arrivalTime=9, serviceTime=3}]
+
+Clienti care asteapta sa intre: [Task{ID=3, arrivalTime=14, serviceTime=3}, Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 28.75
+
+Q1: [Task{ID=2, arrivalTime=9, serviceTime=2}]
+
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=3, arrivalTime=14, serviceTime=3}, Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 30.75
+
+Q2 is closed
+Q1: [Task{ID=2, arrivalTime=9, serviceTime=1}]
+
+Clienti care asteapta sa intre: [Task{ID=3, arrivalTime=14, serviceTime=3}, Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 32.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=3, arrivalTime=14, serviceTime=3}, Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 34.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 36.0
+
+Q2 is closed
+Q1: [Task{ID=3, arrivalTime=14, serviceTime=3}]
+
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 37.25
+
+Q2 is closed
+Q1: [Task{ID=3, arrivalTime=14, serviceTime=2}]
+
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 38.5
+
+Q2 is closed
+Q1: [Task{ID=3, arrivalTime=14, serviceTime=1}]
+
+Clienti care asteapta sa intre: [Task{ID=1, arrivalTime=18, serviceTime=3}, Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 39.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 40.25
+
+Q2 is closed
+Q1: [Task{ID=1, arrivalTime=18, serviceTime=3}]
+
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 40.75
+
+Q2 is closed
+Q1: [Task{ID=1, arrivalTime=18, serviceTime=2}]
+
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 41.25
+
+Q2 is closed
+Q1: [Task{ID=1, arrivalTime=18, serviceTime=1}]
+
+Clienti care asteapta sa intre: [Task{ID=0, arrivalTime=22, serviceTime=2}]
+Average wainting time is 41.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q2 is closed
+Q1: [Task{ID=0, arrivalTime=22, serviceTime=2}]
+
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1: [Task{ID=0, arrivalTime=22, serviceTime=1}]
+
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q2 is closed
+Q1 is closed
+Clienti care asteapta sa intre: []
+Average wainting time is 41.75
+
+Q1 is closed
+Q2 is closed
